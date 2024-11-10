@@ -4,7 +4,7 @@
 
 ### 1. [ahmadyasser72/minor-motion](https://github.com/ahmadyasser72/minor-motion) | [minor-motion.pages.dev](https://minor-motion.pages.dev/)
 
-Aplikasi web tracking tugas dengan fitur-fitur seperti tracking tugas, listing tugas, calendar tugas, sinkronisasi data dengan akun google, dll.
+Aplikasi web tracking tugas dengan fitur-fitur seperti status pengerjaan tugas (sudah atau belum), listing tugas, calendar tugas, sinkronisasi data dengan akun google, dll.
 
 > ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 > ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
