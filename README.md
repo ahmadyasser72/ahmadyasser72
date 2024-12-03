@@ -33,7 +33,16 @@ Aplikasi web polling, hasil kolaborasi dengan [@muhammadrifqih](https://github.c
 > ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ahmadyasser72/survey?style=flat-square)
 > ![GitHub last commit](https://img.shields.io/github/last-commit/ahmadyasser72/survey?style=flat-square)
 
-<!---
-ahmadyasser72/ahmadyasser72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 3. (WIP) [ahmadyasser72/tender-telescope](https://github.com/ahmadyasser72/tender-telescope) | [tender-telescope.netlify.app](https://tender-telescope.netlify.app)
+
+Aplikasi quiz belajar bahasa asing.
+
+> ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+> ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+> ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+> 
+> ![GitHub Created At](https://img.shields.io/github/created-at/ahmadyasser72/tender-telescope?style=flat-square)
+> ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ahmadyasser72/tender-telescope?style=flat-square)
+> ![GitHub last commit](https://img.shields.io/github/last-commit/ahmadyasser72/tender-telescope?style=flat-square)
