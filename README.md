@@ -38,10 +38,12 @@ Aplikasi web polling, hasil kolaborasi dengan [@muhammadrifqih](https://github.c
 Aplikasi quiz belajar bahasa asing.
 
 > ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+> ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 > ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 > ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 > ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 > ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+> ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 > 
 > ![GitHub Created At](https://img.shields.io/github/created-at/ahmadyasser72/tender-telescope?style=flat-square)
 > ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ahmadyasser72/tender-telescope?style=flat-square)
