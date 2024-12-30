@@ -33,9 +33,9 @@ Aplikasi web polling, hasil kolaborasi dengan [@muhammadrifqih](https://github.c
 > ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ahmadyasser72/survey?style=flat-square)
 > ![GitHub last commit](https://img.shields.io/github/last-commit/ahmadyasser72/survey?style=flat-square)
 
-### 3. (WIP) [ahmadyasser72/tender-telescope](https://github.com/ahmadyasser72/tender-telescope) | [tender-telescope.netlify.app](https://tender-telescope.netlify.app)
+### 3. [ahmadyasser72/tender-telescope](https://github.com/ahmadyasser72/tender-telescope) | [website](https://tender-telescope.netlify.app) | [versi offline](https://github.com/ahmadyasser72/tender-telescope/releases/latest)
 
-Aplikasi quiz belajar bahasa asing.
+Aplikasi quiz belajar bahasa ~asing~ Inggris.
 
 > ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 > ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
